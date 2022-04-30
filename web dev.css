@@ -1,0 +1,28 @@
+.parent{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    /* position: relative; */
+    bottom: 0%;
+    margin: auto;
+    right: 0%;
+
+}
+/* There is also maximum and minimum width */
+
+.child{
+
+    
+    
+    background-color: black;
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    bottom: 10px;
+     }
+    li{
+        display: inline;
+        margin-right: 10pxs;
+        padding-right: 10px;
+    }
+  

@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: auto;
+}
+.header{
+    background-color: aqua;
+    width: 100%;
+    height:60px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+   
+    width: 60px;
+    color: purple;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+   
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+ul li {
+    color: black;
+    font-size: 14px;
+
+}
+ul li:hover{
+    color: purple;
+    font-weight: bold;
+    cursor: pointer;
+}
+.hero{
+    background-color: pink;
+    width: 100%;
+    height: auto;
+    padding: 0 30px;
+}

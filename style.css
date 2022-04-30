@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+}
+ul > li{
+    color: aqua;
+}
+#lor > li{
+    color: beige;
+}
+li:first-child {
+    color: burlywood;
+}
+li:nth-child(3) {
+    color: gray;
+}
+header B{
+    font-family: 'My Soul', cursive;
+
+}
+#fly{
+    float: left;
+}
